@@ -3,8 +3,6 @@
   <a href="mailto:fernandogiarola97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
-
 ## 🧑‍💻 About me
 
 I'm a software engineer with **5+ years of experience** in the .NET ecosystem, designing and building applications mainly for financial institutions. I like being involved in the whole development lifecycle, from planning and design all the way to production.
