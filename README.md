@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fernando Giarola 👋</h1>
+<h1 align="center">Hi, I'm Fernando 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernando-giarola-3940101b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
