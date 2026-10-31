@@ -1,7 +1,4 @@
-## Hi there 👋
-
 <h1 align="center">Hi, I'm Fernando Giarola 👋</h1>
-<h3 align="center">.NET Software Engineer building event-driven and distributed systems for the financial sector</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernando-giarola-3940101b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -12,11 +9,11 @@
 
 ## 🧑‍💻 About me
 
-I'm a software engineer with **5+ years of experience** in the .NET ecosystem, designing and building applications with complex architectures for large financial institutions. I like being involved in the whole development lifecycle, from planning and design all the way to production.
+I'm a software engineer with **5+ years of experience** in the .NET ecosystem, designing and building applications mainly for financial institutions. I like being involved in the whole development lifecycle, from planning and design all the way to production.
 
-- 🏦 Currently a **.NET Engineer at [Banco BMG](https://www.bancobmg.com.br/)**, where, as one of the lead developers, I designed an event-driven system to process internal debt payment transactions
-- 🧩 Experienced with **microservices, messaging and event-driven architecture** (Kafka, RabbitMQ)
-- 📐 Interested in **software architecture**: DDD, CQRS, Vertical Slice Architecture and clean code
+- 🏦 Currently a **.NET Engineer at [Banco BMG](https://www.bancobmg.com.br/)**
+- 🧩 Experienced with **microservices, messaging and event-driven architecture**
+- 📐 Interested in **software architecture**: DDD, CQRS, Vertical Slice Architecture and clean code, and now A.I
 - 🧪 Strong believer in automated testing: unit, integration and E2E
 - 🎓 Bachelor's degree in **Computer Science**
 - 📍 Based in **Maringá, Brazil**
@@ -52,22 +49,11 @@ I'm a software engineer with **5+ years of experience** in the .NET ecosystem, d
 
 ---
 
-## 💼 Experience highlights
-
-| Company | Role | What I did |
-|---|---|---|
-| **Banco BMG** | .NET Engineer · 2025 – Present | Lead developer on an event-driven system for internal debt payment transactions |
-| **Raro Labs · Banco BMG** | Back-end Engineer · 2021 – 2025 | Designed the microservices architecture for the mobile client onboarding flow (BFF, RabbitMQ, Redis) and built Kafka services to update loan balances in real time |
-| **Tata Consultancy Services · Itaú Unibanco** | .NET Developer · 2020 – 2021 | Replaced legacy SOAP services with RESTful .NET Core APIs and built Kafka consumers, with CI/CD to a private cloud |
-| **CRMALL** | .NET Developer · 2020 | Maintained CRM systems, built OWASP-based auth services and third-party integrations |
-
----
-
 ## 🚀 Featured projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [**vertical-slice-demo**](https://github.com/fgiarol/vertical-slice-demo) | Demo repository showcasing Vertical Slice Architecture | C# · .NET |
+| [**vertical-slice-demo**](https://github.com/fgiarol/vertical-slice-demo) | Demo repository showcasing Vertical Slice Architecture and study case of it's benefits using A.I | C# · .NET |
 | [**VehicleManagement**](https://github.com/fgiarol/VehicleManagement) | RESTful API for vehicle management built with CQRS | C# · .NET |
 | [**LibraryControl**](https://github.com/fgiarol/LibraryControl) | Application to manage a digital library | C# · .NET |
 | [**cinema-flix**](https://github.com/the-collab-space/cinema-flix) | Collaborative movie catalog website to help you pick your next favorite movie | Docker |
