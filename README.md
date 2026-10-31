@@ -49,23 +49,7 @@ I'm a software engineer with **5+ years of experience** in the .NET ecosystem, d
 
 ---
 
-## 🚀 Featured projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**vertical-slice-demo**](https://github.com/fgiarol/vertical-slice-demo) | Demo repository showcasing Vertical Slice Architecture and study case of it's benefits using A.I | C# · .NET |
-| [**VehicleManagement**](https://github.com/fgiarol/VehicleManagement) | RESTful API for vehicle management built with CQRS | C# · .NET |
-| [**LibraryControl**](https://github.com/fgiarol/LibraryControl) | Application to manage a digital library | C# · .NET |
-| [**cinema-flix**](https://github.com/the-collab-space/cinema-flix) | Collaborative movie catalog website to help you pick your next favorite movie | Docker |
-
----
-
 ## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fgiarol&show_icons=true&theme=tokyonight&hide_border=true" alt="Fernando's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgiarol&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fgiarol&theme=tokyonight&hide_border=true" alt="GitHub streak">
